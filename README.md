@@ -63,9 +63,9 @@ pipeline项目分为离线和在线，后端统一为微服务。
 
 以下均为我熟练使用的技能
 
-- 开发语言：python/java
+- 开发语言：python/java/shell/go
 - Web框架：spring mvc mybatis
-- 前端框架：Bootstrap/Angulaonic
+- 前端框架：Bootstrap/Angularjs
 - 数据库相关：MySQL/MongoDB
 - 版本管理、自动化部署工具：svn/git/Kubernetes/docker
 - 单元测试：PyUnit/Junit
