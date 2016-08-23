@@ -28,17 +28,17 @@
 
 # 工作经历
 
-## 华为公司 （ 2013年3月 ~ 至今）
+## 华为软件技术有限公司 （ 2013年3月 ~ 至今）
 
 ### DSL云化引擎项目 
 本项目参考puppet实现，旨在服务PaaS自动化运维中脚本的快速开发，建立MVC框架，解决PaaS云化脚本开发繁琐等问题，使用声明式开发，简化脚本开发，提高脚本开发效率
 本项目核心语言是Python，引用xpath和jinja2.核心技术和难点是model和control层，model层数据支持JSON，INI和XML.view使用jinjia2实现。本套框架提供完整的日志和异常捕获，以及完整的单元测试用例和集成测试用例。 
 
 主要职责:
-（1）新需求的开发（python）
-（2）自动化测试框架开发（python unittest）
-（3）各个产品线宣讲和推广
-（4）版本的发布，维护和升级（ant）
+- 新需求的开发（python）
+- 自动化测试框架开发（python unittest）
+- 各个产品线宣讲和推广
+- 版本的发布，维护和升级（ant）
 
 
 
@@ -47,9 +47,9 @@
 pipeline项目分为离线和在线，后端统一为微服务。
 
 主要职责:
-（1）升级模版微服务开发（spring mvc）
-（2）微服务自动镜像构建（docker）
-（3）微服务的自动化打包，部署（Kubernetes）
+- 升级模版微服务开发（spring mvc）
+- 微服务自动镜像构建（docker）
+- 微服务的自动化打包，部署（Kubernetes）
 
 
 ### 公有云项目
@@ -57,11 +57,11 @@ pipeline项目分为离线和在线，后端统一为微服务。
 本项目为云化转型项目，基于cloudfoundry系统，开发service broker
 
 主要职责：
-（1）nats消息总线改造
-（2）docker知识语言，使用，及推广
-（3）mongodb的使用和推广
-（4）负责gorouter的升级，开发和维护
-（5）基于cf开发web demo
+- nats消息总线改造
+- docker知识语言，使用，及推广
+- mongodb的使用和推广
+- 负责gorouter的升级，开发和维护
+- 基于cf开发web demo
 
 ---
 
